@@ -383,12 +383,12 @@ textarea {
 }
 
 #thumbs-up {
-  background: url("/img/spritesheet1.png") 0px 0px;
+  background: url("img/spritesheet1.png") 0px 0px;
   margin-right: 5%;
 }
 
 #thumbs-down {
-  background: url("/img/spritesheet1.png") 52px 0px;
+  background: url("img/spritesheet1.png") 52px 0px;
 }
 
 /* Bottom Container */
