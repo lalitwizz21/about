@@ -163,8 +163,9 @@ hr {
   height: 100vh;
 }
 
-.top-container h2 {
+.top-container h2, .top-container h1 {
   color: white;
+  text-align: center;
 }
 
 /* Middle Container */
